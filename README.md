@@ -9,7 +9,8 @@ Waa Xarig (Link) udhaxeeya application-kaaga iyo application kale kaaso u sahlay
 inuu la hadlo ama xog kasoo qaato application kale  oo external ah <br>
 Tusaalaha API-gu waxaa kamid <kbd>Weather App-ka</kbd> Teelkaaga Kujira Sida Uu Usoo Aqrisanaayo
 Cimilada Wadankeena<br>
-API isagoo animation ah hoos ayaa ka arki kartaa.
+API isagoo animation ah hoos ayaa ka arki kartaa.<br>
+![](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)
 
 # Waaa Maxay Faa'idada Uu Leeyahay API-gu?
 faa'idooyinka ugu muhiimsan ee uu leeyahay api-gu waa<br>

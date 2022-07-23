@@ -32,6 +32,7 @@ Inaad hesho Ama soo Aqriso Xogta Kaaga Imaaday Ama Aad kasoo jiidatay Link API.<
  3. <kbd>PUT</kbd> : POUT Wxuu Udhigmaa ( Update ) Waxaa la isticmaala Markii Xog Aad ka Update-gareenaysid
 API-ga <br>
 4. <kbd>DELETE</kbd>: Sida Erayga Ka Muuqataba DELETE Waxaa La isticmaala Markii Aad Xog ka Tuuraysid API-ga<br>
+#Proffresorka Testing
 
 # Sidee Ugu Xeraysaa API Website-kaaga Ama App-kaaga?
 1. Marka Hore Waa Inaad Heshaa API-ka Aad Rabto Inaad Ku Xerto Website-kaaga Kaba

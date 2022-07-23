@@ -27,8 +27,8 @@ faa'idooyinka ugu muhiimsan ee uu leeyahay api-gu waa<br>
 1. <kbd>GET</kbd>: GET Waa Method Kamid API Methods Waxuuna Udhigmaa (Read) Wuxuu Kuu Sahlayaa
 Inaad hesho Ama soo Aqriso Xogta Kaaga Imaaday Ama Aad kasoo jiidatay Link API.<br>
 2. <kbd>POST</kbd>: POST Wuxuu Udhigmaa (Insert Ama Create) Waxaa La isticmaala
- Marka Xog Aad Gelinaysid API-ga  <br>
-3.<kbd>PUT</kbd> : POUT Wxuu Udhigmaa ( Update ) Waxaa la isticmaala Markii Xog Aad ka Update-gareenaysid
+ Marka Xog Aad Gelinaysid API-ga
+ 3. <kbd>PUT</kbd> : POUT Wxuu Udhigmaa ( Update ) Waxaa la isticmaala Markii Xog Aad ka Update-gareenaysid
 API-ga <br>
 4. <kbd>DELETE</kbd>: Sida Erayga Ka Muuqataba DELETE Waxaa La isticmaala Markii Aad Xog ka Tuuraysid API-ga<br>
 

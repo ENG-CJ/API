@@ -1,6 +1,6 @@
 
 Qeeybtaan Waxaan uga Hadli Doonna <kbd>API</kbd> Waxa Uu yahay, Faa'idadiisa Iyo Isticmaal-kiisa
-Waa ka Qeeyb Qadan Kartaa Repository-gaan Adigoo Fork dahaahayo Kuna Soo Darso, Waxyaabaha Kamaqan Messhan
+Waa ka Qeeyb Qadan Kartaa Repository-gaan Adigoo Fork dhahayo Kuna Soo Darso, Waxyaabaha Kamaqan Messhan
 Oo Aad isleedahay Dadka Way Anfici Donnan.
 
 # 1. Waa Maxay APi ?

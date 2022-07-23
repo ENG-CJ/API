@@ -44,3 +44,8 @@ Isticmaalaysid Si Aaadan Ugu Wareerin intaa Kadib
 Kujirto Server-kaas <br>
 5. Sidaas Ayaa Ugu Xertay Congrats!😊
 
+# Luqad Walba Maku Isticmaali karaa?
+Haa Luqad Walba Waa Ku Isticmaali Kartaa, Luuqad Walbana Waxay Leedahay Functional ugooni Ah Oo Lagu
+Maamulo API's-ka <br> Examples-ka Soo Socdo Waxaan isticmaali donna <b> JavaScript </b> Luqaadda Favorite-kaaga waa
+Isticmaali kartaa ☺
+

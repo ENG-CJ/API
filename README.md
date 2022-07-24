@@ -61,8 +61,8 @@ Waxaa La isticmaala Markii Aad Api Request Udirsanayso Dhowr Qaabo
 1. Inaad Isticmaasho <kbd> fetch </kbd> Method ();
 2. Inaad isticmaasho <kbd>AJAX & JQUERY</kbd>
 3. XHR Request ama Inaad Isticmaasho <kbd>ASYNC AWAIT</kbd>
-
-Intaas Qaab Waa Isticmaali Kartaa Lkn Annaga Examples Waxaan isticmaali donna Laba Qaab
+<br>
+Intaas Qaab Waa Isticmaali Kartaa Lkn Annaga Examples-ka Waxaan isticmaali donna Laba Qaab
 1. Fetch
 2. PHP -> AJAX AND JQUERY
 
@@ -78,7 +78,7 @@ api online ah sidaan ayuu uqorman doonaa path-ka <kbd>localhost/api/user.json</k
 Sawir-ka kore Qeeybtiisa Url-ka Ayaa Waxaa Gelinaysa link-ga Aad request Udiraysid
 ![](request_link.PNG)
 
-kadib markii aad gelisid waxa soo laaban doono waxaa loo yaqaanaa <kbd>Response</kbd> File-ka Hadda Aan Udirnay
+kadib markii aad gelisid waxa soo laaban doono waxaa loo yaqaanaa <kbd>Response</kbd> <br> File-ka Hadda Aan Udirnay
 Request-ga Sidaan Ayaa Noqonayaa reponsise-giisa
 ![](response.PNG)
 
@@ -86,7 +86,7 @@ Sidaas Ayaa Ku TEST Gareeyn kartaa Request Aad Udirtay Link-api local ama Online
 adigoo isticmaalaya graphical extension-ka THUNDER CLIENT API 
 
 # API USING JAVASCRIPT |3| By Code Using (fetch method)
-Halkaan Waxaan Ku Diraysaa request-gii hadda isagoo code ah ayaan arkaynaa waxaana isticmaali doonna fetch method code-ka sidaan ayuu noqonayaa
+Halkaan Waxaan Ku Diraynaa request-gii hadda isagoo code ah ayaan arkaynaa waxaana isticmaali doonna fetch method <br>code-ka sidaan ayuu noqonayaa
 ```javascript
 function FetchMyApi() {
     
@@ -102,18 +102,18 @@ function FetchMyApi() {
 FetchMyApi();
 ```
 sidaas ayaa ku dirsanay api-ga annago isticmaalayno fetch method <br>
-waxaa uyeeraysaa method-ka <kbd>fetch(url)</kbd> Url : waxaa weeyan link-ga aad udiraysid request-ga
-reuqest-ga waxaa kasoo laabanayo laba midkood true ama false <b>true</b>: true hadday tahay data-da
-waxaa weeyan wax cillad ah majiraan kadib data-da Qaar sida aan horay ugu soo sheegnay waxay ku imaanaysa qaab\
-object ah si aad ugu badashid json markii data-da true tahay waxaa la isticmaala <kbd>.then</kbd> : .then
-waxaa weyaan markii data-da success tahay maxaa la qabanaayaa <kbd>.catch</kbd>: Waxaa weeyan markii data-da
-failed tahay maxaa la qabanayaa then waxaan soo bandhigaynaa error-ka jira lets test
-and see the console.....
+waxaa uyeeraysaa method-ka <kbd>fetch(url)</kbd><br> Url : waxaa weeyan link-ga aad udiraysid request-ga<br>
+reuqest-ga waxaa kasoo laabanayo laba midkood true ama false<br> <b>true</b>: true hadday tahay data-da
+waxaa weeyan wax cillad ah majiraan kadib , data-da Qaar sida aan horay ugu soo sheegnay waxay ku imaanaysa qaab\
+object ah si aad ugu badashid json markii data-da true tahay waxaa la isticmaala <kbd>.then</kbd><br> : .then
+waxaa weyaan markii data-da success tahay maxaa la qabanaayaa <br><kbd>.catch</kbd>: Waxaa weeyan markii data-da
+failed tahay maxaa la qabanayaa <br>then waxaan soo bandhigaynaa error-ka jira lets test
+and see the console.....<br>
 result:
 ![](response_2_console.PNG)
 
 
-si aad data-da qeeyb kamid ah ugula soo dhax-baxdid waxaa isticmaalysa indexing 
+si aad data-da qeeyb kamid ah ugula soo dhax-baxdid waxaa isticmaalysa indexing <br>
 example : <kbd>data[0]</kbd> data[0]: means waa object-ga kowwad xogtiisa isoo bandhig
 ```javascript
 function FetchMyApi() {
@@ -132,10 +132,10 @@ function FetchMyApi() {
 }
 FetchMyApi();
 ```
-haddii aad rabtid user-ka hogtiisa qeeyb kamid Waxaa marka hore accessing ku sameenaysa index-ga object uu leeyhy
+haddii aad rabtid user-ka hogtiisa qeeyb kamid Waxaa marka hore accessing ku sameenaysa index-ga object uu leeyhy, 
 kadib waxaa isticmaali kartaa <kbd>Ditructure</kbd> : waa vanilla javascript syntax oo aad u isticmaali karto
-inaad wixii isku meel ah object varibale usameeyn kartid example haddii aan rabo user-ka ugu horeeyo 
-username-kisa address-kiisa iyo shaqadisaa maxaan sameenayaa sidaan ayaa sameenaysa
+inaad wixii isku meel ah object varibale usameeyn kartid<br> example haddii aan rabo user-ka ugu horeeyo 
+username-kisa address-kiisa iyo shaqadisaa maxaan sameenayaa sidaan...
 ```javascript
 function FetchMyApi() {
     
@@ -155,18 +155,19 @@ FetchMyApi();
 
 ```
 <kbd>let {username, Address,occupation}=data[0];</kbd> Qeybtaan ayaa loo yaqaanaa distructure 
-data[0] waa user-ka ugu horeeyo xogtiisa user-ka ugu horeeyana xogtiisa waxaa kamid waxyaabaha
-aan object-gaan ku sheegay <kbd>{username, Address,occupation}</kbd> Waa inay islahaadan magacyada aad halkaan ku qoraysid <kbd>{username, Address,occupation} </kbd> iYo Magacyada data[0] kujirtan ama object-ga aad xogta kasoo qaadanaysid hadday islahaan waayan waxaa kuu soo laaban doono <kbd>undefined</kbd>
+data[0] waa user-ka ugu horeeyo xogtiisa,  user-ka ugu horeeyana xogtiisa waxaa kamid waxyaabaha
+aan object-gaan ku sheegay <kbd>{username, Address,occupation}</kbd> , Waa inay islahaadan magacyada aad halkaan ku qoraysid <kbd>{username, Address,occupation} </kbd> iYo Magacyada data[0] kujiraan ama object-ga aad xogta kasoo qaadanaysid , hadday islahaan waayan waxaa kuu soo laaban doono <kbd>undefined</kbd><br>
 Let's Test above the code and see the result
 ![](response_3_with_oneUser.PNG)
 
 <br>
 <br>
-Sidaa Ayaa Udirsan kartaa API REQUEST ADIGOO ISTICMAALAYA JAVASCRIPT
-GAAB:
-fecth : waa method la isticmaalo si request api lo diro
-url : url waa link-ga aad udirsanaysid request-ga 
-.the : waa marka data-da success tahay waxa lasoo bandhigaayo
-.catch : waa marka data-da failed tahay waxa lasoo bandhigaayo
+Sidaa Ayaa Udirsan kartaa API REQUEST ADIGOO ISTICMAALAYA JAVASCRIPT<br>
+GAAB
+::::::::::::::::::::::::::::::<br>
+fecth : waa method la isticmaalo si request api lo diro<br>
+url : url waa link-ga aad udirsanaysid request-ga <br>
+.the : waa marka data-da success tahay waxa lasoo bandhigaayo<br>
+.catch : waa marka data-da failed tahay waxa lasoo bandhigaayo<br>
 
 thats it😊 Next waxaa fiirin donna ajax jquery php and mysql
